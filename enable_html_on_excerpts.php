@@ -3,7 +3,9 @@
 Plugin Name: HTML on Excerpts
 Description: This plugin allows HTML in excerpts.
 Version: 1.0
-Author: Shishir Raven
+Author:            Shishir Raven
+Author URI:        https://iamshishir.com/
+Author Email:      shishir.raven@gmail.com
 Author URI: https://www.webforttechnology.com/
 */
 
